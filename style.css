@@ -5,7 +5,7 @@ body {
 .cabeçalho {
     background-color: navy;
     color: azure;
-    font-size: 10px;
+    font-size: 30px;
     display: ruby-text;
     justify-content: space-around;
     align-items: center;
