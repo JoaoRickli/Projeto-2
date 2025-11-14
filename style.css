@@ -4,5 +4,10 @@ body {
 
 .cabeçalho {
     background-color: navy;
+    color: azure;
+    display: ruby-text;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
     margin-bottom: 0px;
 }
